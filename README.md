@@ -8,9 +8,13 @@
 DhEasy test is part of DhEasy gem collection. It provides testing tools for TDD (Test Driven Development) over DataHen apps.
 
 Install gem:
-```gem install 'dh_easy-test'```
+```ruby
+gem install 'dh_easy-test'
+```
 
 Require gem:
-```require 'dh_easy/test'```
+```ruby
+require 'dh_easy/test'
+```
 
 Documentation can be found [here](http://rubydoc.org/gems/dh_easy-test/frames).
